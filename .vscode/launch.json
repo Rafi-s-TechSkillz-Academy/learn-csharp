@@ -1,0 +1,33 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": ".NET A2defaults demo",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/20230720/A2DefaultValuesDemo/bin/Debug/net8.0/A2DefaultValuesDemo.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/20230720/A2DefaultValuesDemo",
+            "stopAtEntry": false,
+            "console": "internalConsole"
+        },
+       
+       {
+            "name": ".NET A1StringsDemo",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            // If you have changed target frameworks, make sure to update the program path.
+            "program": "${workspaceFolder}/20230720/A1stringsDemo/bin/Debug/net8.0/A1stringsDemo.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/20230720/A1stringsDemo",
+            // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
+            
+            "stopAtEntry": false,
+            "console": "internalConsole",
+            "justMyCode":false
+          
+       }
+    ]
+}

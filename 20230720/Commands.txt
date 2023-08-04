@@ -1,0 +1,23 @@
+dotnet new sin -n 20238720
+
+dotnet new console -o A1stringsDemo 
+dotnet add reference ..\..\Common\HeaderFooter\HeaderFooter.csproj
+dotnet sln add .\A1StringsDemo\A1stringsDemo.csproj
+
+dotnet new console -o A2DefaultValuesDemo
+dotnet add reference ..\..\Common\HeaderFooter\HeaderFooter.csproj
+otnet sln add .\A2DefaultValuesDemo\A2DefaultValuesDemo.csproj
+
+dotnet new console -o A2CharsDemo
+
+dotnet new console -o A3IntegersDemo
+dotnet new console -o A4DecimalsDemo
+dotnet new console -o A5BoolDemo
+
+dotnet new console -o A6pateTimeDemo
+dotnet sln add .\A1StringsDemo\A1stringsDemo.csproj
+dotnet add reference ..\..\Common\HeaderFooter\HeaderFooter.csproj
+
+dotnet add:
+ package <PACKAGE_NAME>    Add a NuGet package reference to the project.
+  reference <PROJECT_PATH>  Add a project-to-project reference to the project.
