@@ -14,9 +14,5 @@ dotnet add reference ../../Common/HeaderFooter/HeaderFooter.csproj
 
 dotnet new console -o A3boolVariablesDemo
 dotnet sln add .\A3boolVariablesDemo\A3boolVariablesDemo.csproj
-dotnet add reference ../../Common/HeaderFooter/HeaderFooter.csproj
 
-dotnet new console -o A4FloatingVariablesDemo
-dotnet sln add .\A4FloatingVariablesDemo\A4FloatingVariablesDemo.csproj
-cd A4FloatingVariablesDemo
 dotnet add reference ../../Common/HeaderFooter/HeaderFooter.csproj
