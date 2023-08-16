@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A1ArithmeticOpsDemo", "A1ArithmeticOpsDemo\A1ArithmeticOpsDemo.csproj", "{F6DFCCB3-7140-4B99-948A-557D8A41E23E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A1TypeCastingDemo", "A1TypeCastingDemo\A1TypeCastingDemo.csproj", "{7C917A20-2D04-4A73-BFF8-8CC6EB939C0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A2varsDemo", "A2varsDemo\A2varsDemo.csproj", "{15ED48AF-E024-4F39-AACE-AA2147F84B30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6DFCCB3-7140-4B99-948A-557D8A41E23E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6DFCCB3-7140-4B99-948A-557D8A41E23E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6DFCCB3-7140-4B99-948A-557D8A41E23E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6DFCCB3-7140-4B99-948A-557D8A41E23E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C917A20-2D04-4A73-BFF8-8CC6EB939C0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C917A20-2D04-4A73-BFF8-8CC6EB939C0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C917A20-2D04-4A73-BFF8-8CC6EB939C0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C917A20-2D04-4A73-BFF8-8CC6EB939C0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15ED48AF-E024-4F39-AACE-AA2147F84B30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15ED48AF-E024-4F39-AACE-AA2147F84B30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15ED48AF-E024-4F39-AACE-AA2147F84B30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15ED48AF-E024-4F39-AACE-AA2147F84B30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
